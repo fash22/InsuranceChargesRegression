@@ -1,0 +1,4 @@
+# Regression Analysis on US Health Insurance Dataset
+In the context of rising healthcare costs in the United States, there is a pressing need to understand the factors that influence health insurance premiums. Despite the availability of extensive data, there remains a gap in predictive models that can accurately estimate insurance charges based on individual demographics and health profiles. This project aims to bridge this gap by examining the US Health Insurance Dataset to identify key determinants of insurance costs. The outcome will not only provide valuable insights for policyholders but also assist insurance companies in creating fair and equitable pricing strategies.
+
+![Photo by [Vlad Deep](https://unsplash.com/@vladdeep)](images/vlad-deep-mCqi3MljC4E-unsplash.jpg)
